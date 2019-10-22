@@ -13,7 +13,10 @@
 ```
 yarn install
 ```
-如果是在windows系统上，如果缺少c++编译环境会报错，需要全局安装windows-build-tools，`npm install -g windows-build-tools`。
+如果是在windows系统上，如果缺少c++编译环境会报错，需要全局安装windows-build-tools。
+```
+npm install -g windows-build-tools
+```
 
 > 如果使用git bash工具安装时，需要以管理员身份打开工具执行该命令，否则安装不上。
 

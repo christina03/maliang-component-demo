@@ -1,6 +1,6 @@
 <template>
   <div class="component">
-    hello world
+    Hello Christina!
   </div>
 </template>
 
@@ -26,5 +26,9 @@
 <style lang="stylus" rel="stylesheet/stylus" type="text/stylus" scoped>
   .component {
     color: red;
+    font-size: 20px;
+    font-weight: 600;
+    text-align center;
+    padding: 20px;
   }
 </style>
